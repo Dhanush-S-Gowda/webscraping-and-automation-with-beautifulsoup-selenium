@@ -10,7 +10,7 @@ FORM_LINK = 'Enter your google form link'
 
 #Extracting data from the website using BeautifulSop 
 headers = {
-    'User-Agent': "Enter your values",
+    'User-Agent': "Enter your user agent value", #Get yours at https://myhttpheader.com/
     'Accept-Language': "en-US,en;q=0.9"
 }
 
