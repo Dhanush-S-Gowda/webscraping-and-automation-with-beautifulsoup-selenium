@@ -24,7 +24,8 @@ pip install beautifulsoup4 requests selenium
 ```
 3. Download the Chrome WebDriver from [here](https://chromedriver.chromium.org/downloads) and place it in your system's PATH.
 4. Modify the `WEBSITE_LINK` and `FORM_LINK` variables in the script with your desired website and Google Form URLs, respectively.
-5. Run the script:
+5. Get your `User-Agent` value from (https://myhttpheader.com/) and add it to your header
+6. Run the script:
 ```bash
 python scraper.py
 ```
