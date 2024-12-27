@@ -16,7 +16,7 @@ To run this project, you'll need:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/zillow-clone-scraper.git
+git clone https://github.com/Dhanush-S-Gowda/webscraping-and-automation-with-beautifulsoup-selenium.git
 ```
 2. Install the required Python packages:
 ```bash
